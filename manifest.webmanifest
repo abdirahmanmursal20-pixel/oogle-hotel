@@ -1,0 +1,9 @@
+{
+  "name": "OOGLE HOTEL",
+  "short_name": "OOGLE HOTEL",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#071a2d",
+  "description": "OOGLE HOTEL, Ceel-Afweyn, Sanaag, Somaliland"
+}
